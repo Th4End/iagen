@@ -2,3 +2,6 @@
 
 # Avant de commencer
     ## faire un petit pip -r install requirements.txt
+
+
+Fait par Eliazid Boulaamail
